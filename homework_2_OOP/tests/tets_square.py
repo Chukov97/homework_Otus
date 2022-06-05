@@ -1,4 +1,4 @@
-from src.Square import Square
+from homework_2_OOP.src.Square import Square
 
 
 class TestSquare:
