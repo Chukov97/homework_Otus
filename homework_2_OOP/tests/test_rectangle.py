@@ -1,4 +1,4 @@
-from src.Rectangle import Rectangle
+from homework_2_OOP.src.Rectangle import Rectangle
 
 
 class TestRectangle:

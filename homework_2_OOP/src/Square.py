@@ -1,4 +1,4 @@
-from src.Figure import Figure
+from homework_2_OOP.src.Figure import Figure
 
 
 class Square(Figure):

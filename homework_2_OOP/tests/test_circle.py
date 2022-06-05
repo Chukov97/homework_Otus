@@ -1,4 +1,4 @@
-from src.Circle import Circle
+from homework_2_OOP.src.Circle import Circle
 
 
 class TestCircle:

@@ -1,4 +1,4 @@
-from src.Triangle import Triangle
+from homework_2_OOP.src.Triangle import Triangle
 
 
 class TestTriangle:
